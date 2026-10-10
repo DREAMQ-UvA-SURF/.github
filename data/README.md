@@ -1,1 +1,1 @@
-
+Downloaded data from synapse (file with labeled molecules, and file with unlabeled molecules); also notebook with simple classical ML model trained on this data, and word doc with description of these ML results.
